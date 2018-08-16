@@ -1,0 +1,167 @@
+Script started on Paz 26 Kas 2017 19:52:04 +03
+]0;cse241@cse241-VirtualBox: ~/Desktop/101044070[01;32mcse241@cse241-VirtualBox[00m:[01;34m~/Desktop/101044070[00m$ ./exe <r3
+
+Select Object Type :
+
+P - Plus Object
+D - Diagonal Object
+U - Undo Object    > 
+Enter Board Width : 
+Enter Board Height: 
+Player(P) | Computer(C): 
+
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 1 (X) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ X  *  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 2 (O) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ X  O  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 1 (X) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  X  *  *  * 
+ X  O  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 2 (O) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  X  *  *  * 
+ X  O  O  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 1 (X) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  X  X  *  * 
+ X  O  O  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 2 (O) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ O  X  X  *  * 
+ X  O  O  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 1 (X) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  X  *  * 
+ O  X  X  *  * 
+ X  O  O  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 2 (O) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  X  *  * 
+ O  X  X  *  * 
+ X  O  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 1 (X) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  X  *  * 
+ O  X  X  X  * 
+ X  O  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 2 (O) Movement : 
+
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  *  * 
+ *  *  X  O  * 
+ O  X  X  X  * 
+ X  O  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.
+
+User 1 (X) Movement : 
+ A  B  C  D  E 
+ *  *  *  *  * 
+ *  *  *  x  * 
+ *  *  x  O  * 
+ O  x  X  X  * 
+ x  O  O  O  * 
+Game Over ..
+Winner --> User 1 (X)
+]0;cse241@cse241-VirtualBox: ~/Desktop/101044070[01;32mcse241@cse241-VirtualBox[00m:[01;34m~/Desktop/101044070[00m$ exit
+exit
+
+Script done on Paz 26 Kas 2017 19:52:16 +03

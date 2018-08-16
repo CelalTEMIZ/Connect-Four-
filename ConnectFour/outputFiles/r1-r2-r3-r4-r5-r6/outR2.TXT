@@ -1,0 +1,107 @@
+Script started on Paz 26 Kas 2017 19:51:36 +03
+]0;cse241@cse241-VirtualBox: ~/Desktop/101044070[01;32mcse241@cse241-VirtualBox[00m:[01;34m~/Desktop/101044070[00m$ ./exe <r2 
+
+Select Object Type :
+
+P - Plus Object
+D - Diagonal Object
+U - Undo Object    > 
+Enter Board Width : 
+Enter Board Height: 
+Player(P) | Computer(C): 
+
+
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ *  *  *  * 
+ *  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.
+
+User 1 (X) Movement : 
+
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ *  *  *  * 
+ X  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.
+
+User 2 (O) Movement : 
+
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ O  *  *  * 
+ X  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.
+
+User 1 (X) Movement : 
+
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ O  *  *  * 
+ X  X  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.
+
+User 2 (O) Movement : 
+
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ O  O  *  * 
+ X  X  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.
+
+User 1 (X) Movement : 
+
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ O  O  *  * 
+ X  X  X  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.
+
+User 2 (O) Movement : 
+
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ O  O  O  * 
+ X  X  X  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.
+
+User 1 (X) Movement : 
+ A  B  C  D 
+ *  *  *  * 
+ *  *  *  * 
+ O  O  O  * 
+ x  x  x  x 
+Game Over ..
+Winner --> User 1 (X)
+]0;cse241@cse241-VirtualBox: ~/Desktop/101044070[01;32mcse241@cse241-VirtualBox[00m:[01;34m~/Desktop/101044070[00m$ exit
+exit
+
+Script done on Paz 26 Kas 2017 19:51:56 +03

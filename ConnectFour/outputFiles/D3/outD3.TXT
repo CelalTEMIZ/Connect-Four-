@@ -1,0 +1,810 @@
+Script started on Paz 26 Kas 2017 20:00:41 +03
+]0;cse241@cse241-VirtualBox: ~/Desktop/101044070[01;32mcse241@cse241-VirtualBox[00m:[01;34m~/Desktop/101044070[00m$ ./exe <D3
+
+Select Object Type :
+
+P - Plus Object
+D - Diagonal Object
+U - Undo Object    > 
+Enter Board Width : 
+Enter Board Height: 
+Player(P) | Computer(C): 
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : K
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ X  X  *  *  *  *  *  O  *  *  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : J
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ X  X  *  X  *  *  *  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  X  *  X  X  *  *  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : F
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  O  *  O  *  *  *  * 
+ X  X  *  X  X  X  *  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  O  *  O  *  *  *  * 
+ X  X  *  X  X  X  X  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : K
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  O  *  O  *  *  O  * 
+ X  X  *  X  X  X  X  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : A
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  O  *  O  *  *  O  * 
+ X  X  *  X  X  X  X  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : J
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  X  *  O  *  O  *  O  O  * 
+ X  X  *  X  X  X  X  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : B
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  *  *  *  *  O  *  *  *  * 
+ X  O  *  X  *  O  *  O  *  O  O  * 
+ X  X  *  X  X  X  X  O  *  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : C
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  *  *  *  *  O  *  *  *  * 
+ X  O  *  X  *  O  *  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  *  *  *  *  O  *  *  *  * 
+ X  O  *  X  *  O  *  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : C
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  *  *  O  *  *  *  * 
+ X  O  O  X  *  O  *  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  *  *  O  *  *  *  * 
+ X  O  O  X  X  O  *  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  * 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : L
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  *  *  O  *  *  *  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : K
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  X  *  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : A
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  X  *  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : G
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+> The current game status is written to D3_SAVE.TXT file.
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : E
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  X  *  X  *  *  *  * 
+ O  *  *  X  O  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : E
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  X  O  X  *  X  *  *  *  * 
+ O  *  *  X  O  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  X  *  *  *  * 
+ O  *  *  X  *  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  * 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : L
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  X  *  X  *  *  *  * 
+ O  *  *  X  *  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  *  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : I
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  X  *  X  *  X  *  *  *  * 
+ O  *  *  X  *  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : D
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  O  *  *  *  X  *  *  *  * 
+ X  *  *  X  *  X  *  X  *  *  *  * 
+ O  *  *  X  X  X  O  O  *  *  O  * 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : J
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  O  *  *  *  X  *  *  *  * 
+ X  *  *  X  *  X  *  X  *  *  *  * 
+ O  X  *  X  X  X  O  O  *  O  O  * 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : C
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  O  *  *  *  X  *  *  *  * 
+ X  *  *  X  *  X  *  X  *  *  X  * 
+ O  X  O  X  X  X  O  O  *  O  O  * 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : C
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  *  O  *  *  *  X  *  *  *  * 
+ X  *  O  X  *  X  *  X  *  *  X  * 
+ O  X  O  X  X  X  O  O  *  O  O  X 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : C
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ O  *  O  O  *  *  *  X  *  *  *  * 
+ X  X  O  X  *  X  *  X  *  *  X  * 
+ O  X  O  X  X  X  O  O  *  O  O  X 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  X  *  *  *  *  O  *  *  *  * 
+ O  *  O  O  *  *  *  X  *  *  *  * 
+ X  X  O  X  *  X  *  X  *  *  X  * 
+ O  X  O  X  X  X  O  O  *  O  O  X 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  X  *  *  *  *  O  *  *  *  * 
+ O  *  O  O  *  *  *  X  *  *  *  * 
+ X  X  O  X  X  X  *  X  *  *  X  * 
+ O  X  O  X  X  X  O  O  *  O  O  X 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : H
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  X  *  *  *  *  O  *  *  *  * 
+ O  *  O  O  X  *  *  X  *  *  *  * 
+ X  X  O  X  X  X  *  X  *  *  X  * 
+ O  X  O  X  X  X  O  O  *  O  O  X 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : F
+
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  X  *  *  O  *  O  *  *  *  * 
+ O  *  O  O  X  X  *  X  *  *  *  * 
+ X  X  O  X  X  X  *  X  *  *  X  * 
+ O  X  O  X  X  X  O  O  *  O  O  X 
+ X  O  O  X  X  O  X  O  O  O  O  O 
+ X  X  O  X  X  X  X  O  X  O  O  O 
+
+> Enter the 'LOAD yourTextFile' command to load the new game.
+> Enter the 'SAVE yourTextFile' command to save the current game.
+> Continue the game use positions such as A.B.C.D.E.F.G.H.I.J.K.L.
+
+User 1 (X) Movement : 
+Computer Movement (O) : G
+
+
+ A  B  C  D  E  F  G  H  I  J  K  L 
+ *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  O  *  *  *  * 
+ *  *  *  *  *  *  *  X  *  *  *  * 
+ X  *  *  *  *  *  *  O  *  *  *  * 
+ X  *  X  *  *  O  *  O  *  *  *  * 
+ O  *  O  O  X  X  *  X  *  *  *  * 
+ X  X  O  X  X  X  o  X  *  *  X  * 
+ O  X  O  X  X  X  O  o  *  O  O  X 
+ X  O  O  X  X  O  X  O  o  O  O  O 
+ X  X  O  X  X  X  X  O  X  o  O  O 
+Game Over ..
+Winner --> Computer (O)
+]0;cse241@cse241-VirtualBox: ~/Desktop/101044070[01;32mcse241@cse241-VirtualBox[00m:[01;34m~/Desktop/101044070[00m$ exit
+exit
+
+Script done on Paz 26 Kas 2017 20:00:51 +03

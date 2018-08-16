@@ -1,0 +1,31 @@
+P
+10
+6
+C
+A
+E
+H
+C
+D
+C
+SAVE P2_SAVE.TXT
+F
+G
+H
+I
+J
+D
+E
+LOAD P2_SAVE.TXT
+F
+G
+A
+C
+A
+B
+D
+I
+I
+J
+B
+E
