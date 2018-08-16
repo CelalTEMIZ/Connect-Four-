@@ -1,8 +1,8 @@
-# Connect Four 
+# Connect Four Game in C++
 
 - The game of Connect Four is played by two players (Computer Vs Player or player 1 Vs player 2)
 
-- Program accepts commands for undo, loading and saving the game board.
+- Program accepts commands for undo, loading and saving the current game board.
 
 
 # Compilation
