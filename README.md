@@ -7,7 +7,7 @@
 
 # Compilation
 - Program is compiled by g++ on Linux.
-- Project folder contains a Makefile for compilation
+- Project folder contains a Makefile for compilation.
 
 
 # Demo 
